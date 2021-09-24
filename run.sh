@@ -16,7 +16,7 @@ fi
 
 echo "Download image for in report..."
 if [ ! -e sine.png ]; then
-  wget home.strw.leidenuniv.nl/~daalen/sine.png 
+  wget home.strw.leidenuniv.nl/~daalen/Handin_files/sine.png 
 fi
 
 # Script that returns a plot
