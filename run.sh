@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "Run handin template"
+echo "Run handin template -- this is an example, make sure to edit this (e.g. rename template.tex to [YourLastName].tex)!"
 
 echo "Clearing/creating the plotting directory"
 if [ ! -d "plots" ]; then
